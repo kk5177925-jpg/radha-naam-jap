@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Radha Jaap</string>
+    <string name="title_activity_main">Radha Jaap</string>
+    <string name="package_name">com.radhajap.app</string>
+    <string name="custom_url_scheme">com.radhajap.app</string>
+</resources>
